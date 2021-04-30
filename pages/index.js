@@ -33,11 +33,11 @@ export default function Home() {
       />
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hi! Welcome to ChenPlus's Personal Pages! 👋
+          Hi! welcome to Personal Pages! 👋
         </h1>
         <br></br>
         <p className={styles.description}>
-         🧙 Fun fact: Old and fat{' '}
+         🧙 Fun fact: old and ugly{' '}
           <code className={styles.code}></code>
         </p>
         <Button shape="round" value="large" icon={<UsergroupAddOutlined />} onClick={openNotification}>
