@@ -33,7 +33,7 @@ export default function Home() {
       />
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hi! welcome to Personal Pages! 👋
+          Hi there! I'm C/mm 👋
         </h1>
         <br></br>
         <p className={styles.description}>
@@ -58,7 +58,7 @@ export default function Home() {
             href="https://weibo.com/ChenChilde/"
             className={styles.card}
           >
-            <h3>🐋 WeiBo &rarr;</h3>
+            <h3>🍉 WeiBo &rarr;</h3>
             <p>A new world! @ChenChilde, Greet a friend from afar.</p>
           </a>
 
@@ -73,7 +73,8 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p> ChenPlus.Com © 2020 <a href="https://beian.miit.gov.cn/"> 渝ICP备18007511号</a> </p>
+        <p> ChenPlus.com © 2021 </p>
+		<p>  <a href="https://beian.miit.gov.cn/"> 渝ICP备18007511号</a> </p>
       </footer>
     </div >
     
