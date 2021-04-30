@@ -73,7 +73,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p> ChenPlus.Com © 2020</p>
+        <p> ChenPlus.Com © 2020 <a href="https://beian.miit.gov.cn/"> 渝ICP备18007511号</a> </p>
       </footer>
     </div >
     
