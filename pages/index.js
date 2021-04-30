@@ -20,7 +20,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>ChenPlus</title>
-        <link rel="icon" href="/faviocn_C.png" />
+        <link rel="icon" href="/faviocn_C.ico" />
       </Head>
       <Row>
         <Col span={24}>&nbsp;</Col>
