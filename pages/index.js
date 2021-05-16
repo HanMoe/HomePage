@@ -74,7 +74,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <p> ChenPlus.com © 2021 </p>
-		<p> &nbsp; <a href="https://beian.miit.gov.cn/">渝ICP备18007511号</a> </p>
+		&nbsp; <p>  <a href="https://beian.miit.gov.cn/">渝ICP备18007511号</a> </p>
       </footer>
     </div >
     
