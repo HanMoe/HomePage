@@ -63,7 +63,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://cloud.chenplus.com"
+            href="https://pan.frp.im"
             className={styles.card}
           >
             <h3>📁 NetDisk &rarr;</h3>
@@ -74,7 +74,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <p> ChenPlus.com © 2021 </p>
-		<p>  <a href="https://beian.miit.gov.cn/"> 渝ICP备18007511号</a> </p>
+		<p> &nbsp; <a href="https://beian.miit.gov.cn/">渝ICP备18007511号</a> </p>
       </footer>
     </div >
     
